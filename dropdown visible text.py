@@ -24,7 +24,7 @@ indices=driver.find_element(By.LINK_TEXT,"Indices")  #website ma jasto naam ma t
 indices.click()
 time.sleep(5)
 
-print("Congrats!! the code dropdown is working fine!!")
+print("Congrats!! the code dropdown is working fine")
 
 #close.get the webdriver
 driver.quit()
