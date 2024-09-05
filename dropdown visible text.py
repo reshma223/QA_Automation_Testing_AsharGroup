@@ -28,3 +28,6 @@ print("Congrats!! the code dropdown is working fine")
 
 #close.get the webdriver
 driver.quit()
+
+
+

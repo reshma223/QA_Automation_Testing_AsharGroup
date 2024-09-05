@@ -1,0 +1,10 @@
+what is pytest?
+Open source testig framework (library) for python
+
+#character
+flexible & powerful assertions command line runs repoting active community
+
+pip install pytest
+
+#naming convention for pytest: "text_abc" or abc_test
+all the functions of the class should be start with test_

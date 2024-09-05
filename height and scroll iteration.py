@@ -18,7 +18,7 @@ time.sleep(5)
 #calcualate the height if page using is
 page_height=driver.execute_script("return document.body.scrollHeight")
 
-#for scrool down the web page
+#for scroll down the web page
 scroll_speed=100
 scroll_iteration=int(page_height/scroll_speed)
 
